@@ -1,0 +1,9 @@
+[
+   {
+      "string": "eko",
+      "integer": "99",
+      "float": 1234.567,
+      "date": "2020-12-12",
+      "boolean": 1
+   }
+]
